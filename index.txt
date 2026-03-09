@@ -1,4 +1,3 @@
 Hello git
-this line is from MAIN
 this line is from FEATURE 
-This line is from feature-demo branch
+this is the updated message
